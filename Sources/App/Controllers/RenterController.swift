@@ -17,7 +17,6 @@ struct RenterController: RouteCollection {
     {
         return try await Renter.query(on: req.db).all()
     }
-    
     //Create
     func createRenter(req: Request) throws -> EventLoopFuture <Renter>{
         let renter = try req.content.decode(Renter.self)
