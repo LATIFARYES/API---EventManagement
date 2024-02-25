@@ -31,6 +31,6 @@
 |                 | DELETE          |                 |
 
 # Team Members
-### Wajd Alhadlaq:
+### Wajd Alhadlaq:https://github.com/WajdAlhadlaq
 ### Reema Alfaleh:
 ### Latifah Alrayes:
