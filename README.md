@@ -15,20 +15,22 @@
 <img width="922" alt="ER Diagram" src="https://github.com/realfaleh/API---EventManagement/assets/86900714/e25e9753-09f5-40d2-9892-6ddba5fd0633">
 
 # Organizer Route
-| Route           |CRUD Operation   | Description     |
-| --------------- | --------------- | --------------- |
-|                 | POST            |                 |
-|                 | GET             |                 |
-|                 | PUT             |                 |
-|                 | DELETE          |                 |
+|CRUD Operation   | Description     |
+| --------------- | --------------- |
+| POST            | The Organizer can creates his information                      |
+| GET             | The Organizer can read his information                         |
+| POST            | The Organizer can create and publish event information         |
+| PUT             |  The Organizer can update event information                    |
+| GET             | The Organizer can read event information                   |
+
 
 # Renter Route
-| Route           |CRUD Operation   | Description     |
-| --------------- | --------------- | --------------- |
-|                 | POST            |                 |
-|                 | GET             |                 |
-|                 | PUT             |                 |
-|                 | DELETE          |                 |
+ |CRUD Operation   | Description    |
+| --------------- | --------------- |
+| POST            | The Renter can create his brand info and details                  |
+| GET             | The Renter can read his brand information                     |
+| PUT             | The Renter can update his brand info and cancel booth reservation |
+| GET             | The Renter can read the event information and details                                                                  |
 
 # Team Members
 ### Wajd Alhadlaq:https://github.com/WajdAlhadlaq
